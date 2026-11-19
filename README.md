@@ -43,4 +43,6 @@ This repository intentionally contains no tenant URL, credentials, user names, c
 
 ## License
 
-No license is included. Add one only after confirming that you or your employer own the code and approve publication.
+This project is licensed under the [MIT License](LICENSE).
+
+This is a sanitized sample provided "as is", without warranty of any kind. Test it in a sandbox environment before using it in production.
